@@ -1,0 +1,34 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+data/
+target/
+ch2-nearest-neighbors-benchmark/target/
+ch2-simple-server-benchmark/target/
+ch3-advanced-server/target/
+ch3-my-news-reader/target/
+ch4-best-matching-benchmark/target/
+ch4-text-indexing-benchmark/target/
+ch5-genetic-algorithm-benchmark/target/
+ch5-keyword-extraction-benchmark/target/
+ch6-kmeans-clustering-benchmark/target/
+ch6-object-filter-benchmark/target/
+ch6-merge-sort-benchmark/target/
+ch7-numerical-summarization-benchmark/target/
+ch7-IRSystem-benchmark/target/
+ch8-SearchWithoutIndexingBenchmark/target/
+ch8-CommonFriendsBenchmark/target/
+ch9-DataStructures/target/
+ch9-Synchronization/target/
+ch10-Integration/target/
+ch11-TestInformation/target/
+ch11-TestTC/target/
+ch11-TestJPF/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
